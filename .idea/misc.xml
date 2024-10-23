@@ -11,6 +11,11 @@
         <option value="$PROJECT_DIR$/SpringCore/pom.xml" />
         <option value="$PROJECT_DIR$/SpringWeb/pom.xml" />
         <option value="$PROJECT_DIR$/SpringMVC/pom.xml" />
+        <option value="$PROJECT_DIR$/NewYorkTimesApi/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringTest/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringSecurity/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringOuth/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringAuthorization/pom.xml" />
       </list>
     </option>
   </component>
