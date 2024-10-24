@@ -16,6 +16,8 @@
         <option value="$PROJECT_DIR$/SpringSecurity/pom.xml" />
         <option value="$PROJECT_DIR$/SpringOuth/pom.xml" />
         <option value="$PROJECT_DIR$/SpringAuthorization/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringAOP/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBatch/pom.xml" />
       </list>
     </option>
   </component>

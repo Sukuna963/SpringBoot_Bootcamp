@@ -5,63 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44d0da69-ca07-4dff-a173-f414a97c6654" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/NewYorkTimesApi/src/main/java/com/example/api/controller/ArticleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewYorkTimesApi/src/main/java/com/example/api/model/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewYorkTimesApi/src/main/java/com/example/api/model/Media.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewYorkTimesApi/src/main/java/com/example/api/model/NytResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewYorkTimesApi/src/main/java/com/example/api/model/Thumbnail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewYorkTimesApi/src/main/java/com/example/api/service/ArticleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewYorkTimesApi/src/main/resources/templates/fragments.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NewYorkTimesApi/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/java/com/example/springauthorization/controllers/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/java/com/example/springauthorization/controllers/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/java/com/example/springauthorization/models/Authority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/java/com/example/springauthorization/models/AuthorityEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/java/com/example/springauthorization/models/UserMeta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/java/com/example/springauthorization/models/UserPrincipal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/java/com/example/springauthorization/repositories/AuthorityRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/java/com/example/springauthorization/repositories/UserMetaRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/java/com/example/springauthorization/repositories/UserPrincipalRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/java/com/example/springauthorization/securities/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/java/com/example/springauthorization/services/CustomUserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/resources/templates/authorization/admin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/resources/templates/authorization/fragments/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/resources/templates/authorization/fragments/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/resources/templates/authorization/fragments/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/resources/templates/authorization/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringAuthorization/src/main/resources/templates/authorization/superu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringOuth/src/main/java/com/example/springouth/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringOuth/src/main/java/com/example/springouth/aouthController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringOuth/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/example/springsecurity/models/Authority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/example/springsecurity/models/RoleEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/example/springsecurity/models/UserPrincipal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/example/springsecurity/repositories/AuthorityRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/example/springsecurity/repositories/UserPrincipalRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/example/springsecurity/security/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringSecurity/src/main/java/com/example/springsecurity/services/CustomUserDetailsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/main/java/com/example/springtest/RecipeDataLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/main/java/com/example/springtest/controllers/RecipeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/main/java/com/example/springtest/controllers/ReviewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/main/java/com/example/springtest/exceptions/NoSuchRecipeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/main/java/com/example/springtest/exceptions/NoSuchReviewException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/main/java/com/example/springtest/models/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/main/java/com/example/springtest/models/Recipe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/main/java/com/example/springtest/models/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/main/java/com/example/springtest/models/Step.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/main/java/com/example/springtest/repositories/RecipeRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/main/java/com/example/springtest/repositories/ReviewRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/main/java/com/example/springtest/security/SecurityConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/main/java/com/example/springtest/services/RecipeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/main/java/com/example/springtest/services/ReviewService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/test/java/com/example/springtest/controller/RecipeControllerUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SpringTest/src/test/java/com/example/springtest/utils/TestUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/example/springaop/aop/Loggable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/example/springaop/aop/LoggingAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/example/springaop/aop/MethodExecutionTimeTrackerAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/example/springaop/aop/ServiceAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/example/springaop/aop/TrackMethodExecutionTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/example/springaop/config/AopConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/example/springaop/models/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/example/springaop/repositories/StudentRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAOP/src/main/java/com/example/springaop/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBatch/src/main/java/com/example/springbatch/config/BatchConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBatch/src/main/java/com/example/springbatch/config/DatabaseConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBatch/src/main/java/com/example/springbatch/controllers/BatchController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBatch/src/main/java/com/example/springbatch/models/Designation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBatch/src/main/java/com/example/springbatch/models/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBatch/src/main/java/com/example/springbatch/repositories/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringBatch/src/main/resources/sample-data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringData/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringData/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpringMVC/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringMVC/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +82,9 @@
     "Application.ScopeAnnotationDemo.executor": "Run",
     "Application.SingletonDemo.executor": "Run",
     "Application.SortRepoDemo.executor": "Run",
+    "Application.SpringAopApplication.executor": "Run",
     "Application.SpringAuthorizationApplication.executor": "Run",
+    "Application.SpringBatchApplication.executor": "Run",
     "Application.SpringBeansDemo.executor": "Run",
     "Application.SpringDataApplication.executor": "Run",
     "Application.SpringDataJDBCDemo.executor": "Run",
@@ -148,7 +113,7 @@
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "D:/Spring_Framework/SpringWeb/src/main/java/com/example/springweb",
-    "last_opened_file_path": "D:/Spring_Framework/SpringAuthorization/pom.xml",
+    "last_opened_file_path": "D:/Spring_Framework/SpringBatch/pom.xml",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -172,13 +137,39 @@
       <recent name="com.example.spring.core.annotations.scope" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpringAuthorizationApplication">
+  <component name="RunManager" selected="Application.SpringBatchApplication">
+    <configuration name="SpringAopApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springaop.SpringAopApplication" />
+      <module name="SpringAOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springaop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringAuthorizationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.springauthorization.SpringAuthorizationApplication" />
       <module name="SpringAuthorization" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.springauthorization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBatchApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.springbatch.SpringBatchApplication" />
+      <module name="SpringBatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.springbatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,48 +203,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringTestApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.springtest.SpringTestApplication" />
-      <module name="SpringTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.springtest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecipeControllerUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SpringTest" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.springtest.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.example.springtest.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.example.springtest.controller.RecipeControllerUnitTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.SpringAopApplication" />
+      <item itemvalue="Application.SpringBatchApplication" />
       <item itemvalue="Application.SpringAuthorizationApplication" />
       <item itemvalue="Application.SpringOuthApplication" />
       <item itemvalue="Application.SpringSecurityApplication" />
-      <item itemvalue="Application.SpringTestApplication" />
-      <item itemvalue="JUnit.RecipeControllerUnitTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpringBatchApplication" />
+        <item itemvalue="Application.SpringAopApplication" />
         <item itemvalue="Application.SpringAuthorizationApplication" />
         <item itemvalue="Application.SpringOuthApplication" />
         <item itemvalue="Application.SpringSecurityApplication" />
-        <item itemvalue="Application.SpringTestApplication" />
-        <item itemvalue="JUnit.RecipeControllerUnitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -267,5 +230,8 @@
       <updated>1727000366436</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
 </project>

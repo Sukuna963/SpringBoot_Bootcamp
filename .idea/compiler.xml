@@ -6,16 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="NewYorkTimesApi" />
         <module name="SpringData" />
         <module name="SpringWeb" />
         <module name="SpringTest" />
         <module name="SpringSecurity" />
-        <module name="SpringCore" />
         <module name="SpringMVC" />
+        <module name="ComedyApp" />
+        <module name="NewYorkTimesApi" />
+        <module name="SpringAOP" />
+        <module name="SpringBatch" />
+        <module name="SpringCore" />
         <module name="SpringAuthorization" />
         <module name="ioc" />
-        <module name="ComedyApp" />
         <module name="SpringOuth" />
       </profile>
     </annotationProcessing>
@@ -27,7 +29,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="ComedyApp" options="-parameters" />
       <module name="NewYorkTimesApi" options="-parameters" />
+      <module name="SpringAOP" options="-parameters" />
       <module name="SpringAuthorization" options="-parameters" />
+      <module name="SpringBatch" options="-parameters" />
       <module name="SpringCore" options="-parameters" />
       <module name="SpringData" options="-parameters" />
       <module name="SpringFramework" options="-parameters" />
