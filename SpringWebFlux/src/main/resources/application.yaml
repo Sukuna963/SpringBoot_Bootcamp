@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SpringWebFlux
+
+  r2dbc:
+    url: r2dbcs:mysql://root:root@127.0.0.1:3306/users

@@ -6,6 +6,7 @@
     <file url="file://$PROJECT_DIR$/SpringAOP/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringAuthorization/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringBatch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringCache/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringCore/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringData/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringFramework/SpringFramework/src/main/java" charset="UTF-8" />
@@ -14,6 +15,7 @@
     <file url="file://$PROJECT_DIR$/SpringSecurity/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringTest/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringWeb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SpringWebFlux/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ioc/src/main/java" charset="UTF-8" />
   </component>
 </project>

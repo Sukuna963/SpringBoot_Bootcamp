@@ -18,6 +18,8 @@
         <option value="$PROJECT_DIR$/SpringAuthorization/pom.xml" />
         <option value="$PROJECT_DIR$/SpringAOP/pom.xml" />
         <option value="$PROJECT_DIR$/SpringBatch/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringCache/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringWebFlux/pom.xml" />
       </list>
     </option>
   </component>
